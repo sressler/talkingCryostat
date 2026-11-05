@@ -1,5 +1,7 @@
 # Talking Cryostat
 
+## ▶ [RUN ME](https://sressler.github.io/talkingCryostat/)
+
 ![Talking Cryostat in X_ITE](images/talkingCryostat.png)
 
 This is a resurrection of a 1998 demo of a portion of a scanning tunneling microscope facility. The large blue cylinder is a cryostat, which was probably 5 or 6 ft long and underground; the grey flat section was at ground level. It was originally created using CosmoWorlds.
@@ -8,7 +10,7 @@ The animated talking circle was animated via code given to me (graciously) by Ma
 
 ## Running it
 
-Open `index.html` in a modern browser. It's a single standalone page: the VRML scene and the sound are embedded in it, and the [X_ITE](https://create3000.github.io/x_ite/) X3D/VRML player loads from the jsDelivr CDN, so you need an internet connection.
+Run it online at **https://sressler.github.io/talkingCryostat/**, or open `index.html` in a modern browser. It's a single standalone page: the VRML scene and the sound are embedded in it, and the [X_ITE](https://create3000.github.io/x_ite/) X3D/VRML player loads from the jsDelivr CDN, so you need an internet connection.
 
 - **Talk**: click the circle (the mouth) or the **Talk** button to play the sound and animate the mouth.
 - **Navigate**: drag to rotate freely (Examine mode, with horizon straightening turned off), and scroll to zoom.
